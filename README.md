@@ -1,3 +1,3 @@
-##Rock Paper scissor
+## Rock Paper scissor
 
-###the normal game made with python
+### the normal game made with python
